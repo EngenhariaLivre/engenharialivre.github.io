@@ -15,9 +15,9 @@
 
 <p>(link)[http://engenharialivre.com]</p>
 ]]></description>
-                <link>/ola-mundo/2015/07/24/primeiro-post-no-spress/</link>
-                <pubDate>Fri, 24 Jul 2015 14:45:25 +0000</pubDate>
-                <guid>/ola-mundo/2015/07/24/primeiro-post-no-spress/</guid>
+                <link>/primeiro-post-no-spress</link>
+                <pubDate>Fri, 24 Jul 2015 14:50:12 +0000</pubDate>
+                <guid>/primeiro-post-no-spress</guid>
             </item>
                     <item>
                 <title>Sample Post</title>
@@ -116,9 +116,9 @@
 
 <div><a href="#" class="btn btn-default">This is a button</a></div>
 ]]></description>
-                <link>/articles/2014/01/18/sample-post/</link>
-                <pubDate>Sat, 18 Jan 2014 14:45:25 +0000</pubDate>
-                <guid>/articles/2014/01/18/sample-post/</guid>
+                <link>/sample-post</link>
+                <pubDate>Sat, 18 Jan 2014 14:50:12 +0000</pubDate>
+                <guid>/sample-post</guid>
             </item>
             </channel>
 </rss>
